@@ -1,0 +1,7 @@
+*.xlsx
+*.csv
+.idea
+.vscode
+bin
+data
+output
